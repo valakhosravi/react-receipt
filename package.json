@@ -1,0 +1,22 @@
+{
+  "name": "react-receipt",
+  "version": "1.0.0",
+  "description": "The PDF Sales Receipt npm package provides a convenient solution for generating professional sales receipts in PDF format for stores and businesses. With this package, you can easily incorporate sales receipt generation functionality into your React applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valakhosravi/react-receipt.git"
+  },
+  "keywords": [
+    "react"
+  ],
+  "author": "Vala Khosravi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valakhosravi/react-receipt/issues"
+  },
+  "homepage": "https://github.com/valakhosravi/react-receipt#readme"
+}
