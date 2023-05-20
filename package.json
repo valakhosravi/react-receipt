@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/valakhosravi/react-receipt/issues"
   },
-  "homepage": "https://github.com/valakhosravi/react-receipt#readme"
+  "homepage": "https://github.com/valakhosravi/react-receipt#readme",
+  "dependencies": {
+    "jspdf": "^2.5.1",
+    "jspdf-autotable": "^3.5.28"
+  }
 }
